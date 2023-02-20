@@ -34,6 +34,8 @@
   <img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white">
   </div>
 
+<br>
+
 ![GabrielG9z GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielG9z&show_icons=true&theme=transparent)
 
 
